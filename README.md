@@ -1,4 +1,4 @@
-# [![GOBEYOND](https://gobeyond-project.eu/wp-content/uploads/2024/07/Gobeyond-Logo-with-baseline-Monochrome-negative-e1720522543433.png](https://gobeyond-project.eu/)
+# [![GOBEYOND](https://gobeyond-project.eu/wp-content/uploads/2024/07/Gobeyond-Logo-with-baseline-Monochrome-negative-e1720522543433.png)](https://gobeyond-project.eu/)
 
 <!--start: description-->
 **GOBEYOND project API uptime checker** 
