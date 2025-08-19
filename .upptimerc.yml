@@ -4,10 +4,10 @@ repo: gobeyond-uptime # The name of this repository
 
 sites:
   - name: Gobeyond API
-    url: https://api.gobeyond-project.eu/health-check_
+    url: https://api.gobeyond-project.eu/health-check
     __dangerous__body_down_if_text_missing: 'Status: OK'
   - name: Gobeyond Dev API
-    url: https://136.156.139.134/health-check
+    url: http://136.156.139.134/health-check
     __dangerous__body_down_if_text_missing: 'Status: OK'
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
