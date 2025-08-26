@@ -1,7 +1,7 @@
 url: http://136.156.139.134/health-check
-status: down
+status: up
 code: 200
-responseTime: 234
-lastUpdated: 2025-08-26T12:35:08.950Z
+responseTime: 325
+lastUpdated: 2025-08-26T13:18:45.698Z
 startTime: 2025-08-19T11:21:27.105Z
 generator: Upptime <https://github.com/upptime/upptime>
