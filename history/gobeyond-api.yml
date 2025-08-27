@@ -1,7 +1,7 @@
-url: https://api.gobeyond-project.eu/health-check
+url: https://api.gobeyond-project.eu/wms/?service=WMS&version=1.3.0&request=GetCapabilities
 status: up
 code: 200
-responseTime: 1179
-lastUpdated: 2025-08-26T23:11:59.587Z
+responseTime: 112
+lastUpdated: 2025-08-27T16:58:53.694Z
 startTime: 2025-08-19T11:21:16.126Z
 generator: Upptime <https://github.com/upptime/upptime>
