@@ -1,7 +1,7 @@
 url: https://api.gobeyond-project.eu/health-check
-status: up
+status: down
 code: 200
-responseTime: 121
-lastUpdated: 2025-08-28T23:12:32.162Z
+responseTime: 168
+lastUpdated: 2025-08-29T10:27:47.785Z
 startTime: 2025-08-27T16:58:53.870Z
 generator: Upptime <https://github.com/upptime/upptime>
