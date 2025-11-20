@@ -1,7 +1,7 @@
 url: http://136.156.139.134/wms/?service=WMS&version=1.3.0&request=GetCapabilities
-status: down
-code: 502
-responseTime: 277
-lastUpdated: 2025-11-20T18:37:41.528Z
+status: up
+code: 200
+responseTime: 803
+lastUpdated: 2025-11-20T18:55:25.271Z
 startTime: 2025-08-19T11:21:27.105Z
 generator: Upptime <https://github.com/upptime/upptime>
