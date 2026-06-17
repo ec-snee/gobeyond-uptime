@@ -13,12 +13,12 @@ sites:
     url: https://api.gobeyond-project.eu/health-check
     __dangerous__body_down_if_text_missing: 'Status: OK'
   - name: Gobeyond Dev API
-    url: http://136.156.139.134/wms/?service=WMS&version=1.3.0&request=GetCapabilities
+    url: https://api-02.ecmwf-gobeyond.f.ewcloud.host/wms/?service=WMS&version=1.3.0&request=GetCapabilities
     expectedStatusCodes:
       - 200
     maxResponseTime: 1000
   - name: Gobeyond Dev Upstream
-    url: http://136.156.139.134/health-check
+    url: https://api-02.ecmwf-gobeyond.f.ewcloud.host/health-check
     __dangerous__body_down_if_text_missing: 'Status: OK'
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
