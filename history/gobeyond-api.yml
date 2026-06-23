@@ -1,7 +1,7 @@
 url: https://api.gobeyond-project.eu/wms/?service=WMS&version=1.3.0&request=GetCapabilities
-status: up
+status: degraded
 code: 200
-responseTime: 677
-lastUpdated: 2026-06-23T00:00:35.622Z
+responseTime: 1265
+lastUpdated: 2026-06-23T00:18:34.366Z
 startTime: 2025-08-19T11:21:16.126Z
 generator: Upptime <https://github.com/upptime/upptime>
