@@ -8,11 +8,11 @@
     "uptime": "91.38%",
     "uptimeDay": "27.64%",
     "uptimeWeek": "3.95%",
-    "uptimeMonth": "7.59%",
+    "uptimeMonth": "7.52%",
     "uptimeYear": "91.38%",
     "time": 635,
-    "timeDay": 1124,
-    "timeWeek": 1073,
+    "timeDay": 1138,
+    "timeWeek": 1077,
     "timeMonth": 1083,
     "timeYear": 635,
     "dailyMinutesDown": {
@@ -56,7 +56,7 @@
       "2026-06-21": 1440,
       "2026-06-20": 1440,
       "2026-06-19": 505,
-      "2026-07-18": 53
+      "2026-07-18": 83
     }
   },
   {
@@ -95,12 +95,12 @@
     "slug": "gobeyond-dev-api",
     "status": "up",
     "uptime": "79.08%",
-    "uptimeDay": "24.71%",
-    "uptimeWeek": "3.53%",
+    "uptimeDay": "26.81%",
+    "uptimeWeek": "3.83%",
     "uptimeMonth": "7.50%",
     "uptimeYear": "79.08%",
     "time": 708,
-    "timeDay": 916,
+    "timeDay": 918,
     "timeWeek": 936,
     "timeMonth": 971,
     "timeYear": 708,
