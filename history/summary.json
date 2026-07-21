@@ -4,16 +4,16 @@
     "url": "https://api.gobeyond-project.eu/wms/?service=WMS&version=1.3.0&request=GetCapabilities",
     "icon": "https://icons.duckduckgo.com/ip3/api.gobeyond-project.eu.ico",
     "slug": "gobeyond-api",
-    "status": "degraded",
-    "uptime": "90.79%",
-    "uptimeDay": "50.62%",
+    "status": "up",
+    "uptime": "90.78%",
+    "uptimeDay": "46.81%",
     "uptimeWeek": "25.82%",
     "uptimeMonth": "7.32%",
-    "uptimeYear": "90.79%",
+    "uptimeYear": "90.78%",
     "time": 659,
-    "timeDay": 1069,
-    "timeWeek": 1092,
-    "timeMonth": 1077,
+    "timeDay": 1036,
+    "timeWeek": 1086,
+    "timeMonth": 1075,
     "timeYear": 659,
     "dailyMinutesDown": {
       "2025-08-19": 5,
@@ -59,7 +59,7 @@
       "2026-07-18": 731,
       "2026-07-19": 1086,
       "2026-07-20": 890,
-      "2026-07-21": 711
+      "2026-07-21": 766
     }
   },
   {
@@ -99,12 +99,12 @@
     "status": "up",
     "uptime": "79.08%",
     "uptimeDay": "78.59%",
-    "uptimeWeek": "47.18%",
-    "uptimeMonth": "12.24%",
+    "uptimeWeek": "47.73%",
+    "uptimeMonth": "12.36%",
     "uptimeYear": "79.08%",
     "time": 719,
     "timeDay": 931,
-    "timeWeek": 933,
+    "timeWeek": 932,
     "timeMonth": 970,
     "timeYear": 719,
     "dailyMinutesDown": {
