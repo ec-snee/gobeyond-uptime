@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.gobeyond-project.eu.ico",
     "slug": "gobeyond-api",
     "status": "degraded",
-    "uptime": "90.65%",
-    "uptimeDay": "34.05%",
+    "uptime": "90.64%",
+    "uptimeDay": "29.36%",
     "uptimeWeek": "29.33%",
     "uptimeMonth": "8.13%",
-    "uptimeYear": "90.65%",
+    "uptimeYear": "90.64%",
     "time": 665,
-    "timeDay": 1107,
-    "timeWeek": 1088,
+    "timeDay": 1098,
+    "timeWeek": 1091,
     "timeMonth": 1080,
     "timeYear": 665,
     "dailyMinutesDown": {
@@ -60,7 +60,7 @@
       "2026-07-19": 1086,
       "2026-07-20": 890,
       "2026-07-21": 787,
-      "2026-07-22": 713
+      "2026-07-22": 783
     }
   },
   {
@@ -97,17 +97,17 @@
     "url": "https://api-02.ecmwf-gobeyond.f.ewcloud.host/wms/?service=WMS&version=1.3.0&request=GetCapabilities",
     "icon": "https://icons.duckduckgo.com/ip3/api-02.ecmwf-gobeyond.f.ewcloud.host.ico",
     "slug": "gobeyond-dev-api",
-    "status": "degraded",
-    "uptime": "79.07%",
-    "uptimeDay": "82.34%",
+    "status": "up",
+    "uptime": "79.06%",
+    "uptimeDay": "77.46%",
     "uptimeWeek": "56.00%",
     "uptimeMonth": "14.27%",
-    "uptimeYear": "79.07%",
-    "time": 721,
-    "timeDay": 1026,
-    "timeWeek": 936,
+    "uptimeYear": "79.06%",
+    "time": 722,
+    "timeDay": 1018,
+    "timeWeek": 947,
     "timeMonth": 971,
-    "timeYear": 721,
+    "timeYear": 722,
     "dailyMinutesDown": {
       "2025-08-19": 33,
       "2025-08-26": 44,
@@ -195,7 +195,7 @@
       "2026-07-19": 564,
       "2026-07-21": 300,
       "2026-07-20": 9,
-      "2026-07-22": 254
+      "2026-07-22": 324
     }
   },
   {
@@ -211,7 +211,7 @@
     "uptimeYear": "86.70%",
     "time": 183,
     "timeDay": 484,
-    "timeWeek": 510,
+    "timeWeek": 518,
     "timeMonth": 503,
     "timeYear": 183,
     "dailyMinutesDown": {
