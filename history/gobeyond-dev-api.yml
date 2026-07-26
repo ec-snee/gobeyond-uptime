@@ -1,7 +1,7 @@
 url: https://api-02.ecmwf-gobeyond.f.ewcloud.host/wms/?service=WMS&version=1.3.0&request=GetCapabilities
-status: degraded
+status: up
 code: 200
-responseTime: 1115
-lastUpdated: 2026-07-26T22:36:29.734Z
+responseTime: 716
+lastUpdated: 2026-07-26T23:37:35.587Z
 startTime: 2025-08-19T11:21:27.105Z
 generator: Upptime <https://github.com/upptime/upptime>
