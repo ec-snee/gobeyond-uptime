@@ -6,7 +6,7 @@
     "slug": "gobeyond-api",
     "status": "degraded",
     "uptime": "89.06%",
-    "uptimeDay": "82.33%",
+    "uptimeDay": "80.69%",
     "uptimeWeek": "59.94%",
     "uptimeMonth": "32.27%",
     "uptimeYear": "89.06%",
@@ -76,7 +76,7 @@
       "2026-08-04": 1137,
       "2026-08-05": 357,
       "2026-08-06": 166,
-      "2026-08-07": 88
+      "2026-08-07": 112
     }
   },
   {
@@ -85,11 +85,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.gobeyond-project.eu.ico",
     "slug": "gobeyond-upstream",
     "status": "up",
-    "uptime": "99.74%",
+    "uptime": "99.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.74%",
+    "uptimeYear": "99.75%",
     "time": 219,
     "timeDay": 456,
     "timeWeek": 672,
@@ -117,7 +117,7 @@
     "uptime": "78.73%",
     "uptimeDay": "82.37%",
     "uptimeWeek": "75.84%",
-    "uptimeMonth": "46.95%",
+    "uptimeMonth": "47.01%",
     "uptimeYear": "78.73%",
     "time": 759,
     "timeDay": 1053,
