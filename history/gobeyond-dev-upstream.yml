@@ -1,7 +1,7 @@
 url: https://api-02.ecmwf-gobeyond.f.ewcloud.host/health-check
 status: up
 code: 200
-responseTime: 451
-lastUpdated: 2026-08-11T23:32:11.469Z
+responseTime: 509
+lastUpdated: 2026-08-12T23:33:06.928Z
 startTime: 2025-08-27T16:58:54.996Z
 generator: Upptime <https://github.com/upptime/upptime>
