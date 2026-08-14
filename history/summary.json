@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.gobeyond-project.eu.ico",
     "slug": "gobeyond-api",
     "status": "up",
-    "uptime": "96.61%",
-    "uptimeDay": "40.28%",
-    "uptimeWeek": "43.69%",
-    "uptimeMonth": "59.83%",
-    "uptimeYear": "96.61%",
+    "uptime": "96.60%",
+    "uptimeDay": "40.30%",
+    "uptimeWeek": "43.64%",
+    "uptimeMonth": "59.76%",
+    "uptimeYear": "96.60%",
     "time": 775,
-    "timeDay": 1244,
-    "timeWeek": 1110,
-    "timeMonth": 1098,
+    "timeDay": 1202,
+    "timeWeek": 1108,
+    "timeMonth": 1097,
     "timeYear": 775,
     "dailyMinutesDown": {
       "2026-07-21": 787,
@@ -40,7 +40,7 @@
       "2026-08-11": 660,
       "2026-08-12": 819,
       "2026-08-13": 1009,
-      "2026-08-14": 667
+      "2026-08-14": 698
     }
   },
   {
