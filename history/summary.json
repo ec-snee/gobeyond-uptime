@@ -4,17 +4,17 @@
     "url": "https://api.gobeyond-project.eu/wms/?service=WMS&version=1.3.0&request=GetCapabilities",
     "icon": "https://icons.duckduckgo.com/ip3/api.gobeyond-project.eu.ico",
     "slug": "gobeyond-api",
-    "status": "up",
+    "status": "degraded",
     "uptime": "97.05%",
-    "uptimeDay": "42.59%",
-    "uptimeWeek": "45.94%",
-    "uptimeMonth": "64.90%",
+    "uptimeDay": "43.84%",
+    "uptimeWeek": "46.14%",
+    "uptimeMonth": "64.93%",
     "uptimeYear": "97.05%",
-    "time": 787,
+    "time": 788,
     "timeDay": 1091,
     "timeWeek": 1112,
-    "timeMonth": 1096,
-    "timeYear": 787,
+    "timeMonth": 1097,
+    "timeYear": 788,
     "dailyMinutesDown": {
       "2026-07-24": 567,
       "2026-07-25": 1061,
@@ -38,7 +38,7 @@
       "2026-08-12": 819,
       "2026-08-13": 1009,
       "2026-08-14": 767,
-      "2026-08-15": 809
+      "2026-08-15": 795
     }
   },
   {
@@ -53,8 +53,8 @@
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.74%",
     "time": 236,
-    "timeDay": 712,
-    "timeWeek": 828,
+    "timeDay": 571,
+    "timeWeek": 826,
     "timeMonth": 704,
     "timeYear": 236,
     "dailyMinutesDown": {
@@ -76,16 +76,16 @@
     "url": "https://api-02.ecmwf-gobeyond.f.ewcloud.host/wms/?service=WMS&version=1.3.0&request=GetCapabilities",
     "icon": "https://icons.duckduckgo.com/ip3/api-02.ecmwf-gobeyond.f.ewcloud.host.ico",
     "slug": "gobeyond-dev-api",
-    "status": "up",
+    "status": "degraded",
     "uptime": "98.03%",
-    "uptimeDay": "78.02%",
-    "uptimeWeek": "68.44%",
-    "uptimeMonth": "76.61%",
+    "uptimeDay": "78.94%",
+    "uptimeWeek": "68.64%",
+    "uptimeMonth": "76.64%",
     "uptimeYear": "98.03%",
     "time": 796,
-    "timeDay": 982,
-    "timeWeek": 989,
-    "timeMonth": 972,
+    "timeDay": 985,
+    "timeWeek": 992,
+    "timeMonth": 973,
     "timeYear": 796,
     "dailyMinutesDown": {
       "2026-07-22": 384,
@@ -112,7 +112,7 @@
       "2026-08-12": 698,
       "2026-08-13": 462,
       "2026-08-14": 559,
-      "2026-08-15": 314
+      "2026-08-15": 301
     }
   },
   {
@@ -127,8 +127,8 @@
     "uptimeMonth": "99.73%",
     "uptimeYear": "87.60%",
     "time": 203,
-    "timeDay": 492,
-    "timeWeek": 488,
+    "timeDay": 419,
+    "timeWeek": 498,
     "timeMonth": 493,
     "timeYear": 203,
     "dailyMinutesDown": {
