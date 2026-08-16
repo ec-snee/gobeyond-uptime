@@ -4,15 +4,15 @@
     "url": "https://api.gobeyond-project.eu/wms/?service=WMS&version=1.3.0&request=GetCapabilities",
     "icon": "https://icons.duckduckgo.com/ip3/api.gobeyond-project.eu.ico",
     "slug": "gobeyond-api",
-    "status": "degraded",
-    "uptime": "97.66%",
-    "uptimeDay": "60.89%",
-    "uptimeWeek": "46.25%",
-    "uptimeMonth": "72.07%",
-    "uptimeYear": "97.66%",
+    "status": "up",
+    "uptime": "97.65%",
+    "uptimeDay": "59.65%",
+    "uptimeWeek": "46.07%",
+    "uptimeMonth": "72.02%",
+    "uptimeYear": "97.65%",
     "time": 801,
-    "timeDay": 1114,
-    "timeWeek": 1117,
+    "timeDay": 1110,
+    "timeWeek": 1116,
     "timeMonth": 1098,
     "timeYear": 801,
     "dailyMinutesDown": {
@@ -35,7 +35,7 @@
       "2026-08-13": 1009,
       "2026-08-14": 767,
       "2026-08-15": 795,
-      "2026-08-16": 564
+      "2026-08-16": 582
     }
   },
   {
@@ -80,7 +80,7 @@
     "uptimeMonth": "79.18%",
     "uptimeYear": "98.25%",
     "time": 801,
-    "timeDay": 956,
+    "timeDay": 949,
     "timeWeek": 988,
     "timeMonth": 972,
     "timeYear": 801,
