@@ -6,9 +6,9 @@
     "slug": "gobeyond-api",
     "status": "degraded",
     "uptime": "97.67%",
-    "uptimeDay": "59.64%",
+    "uptimeDay": "58.83%",
     "uptimeWeek": "46.40%",
-    "uptimeMonth": "72.22%",
+    "uptimeMonth": "72.19%",
     "uptimeYear": "97.67%",
     "time": 801,
     "timeDay": 1123,
@@ -36,7 +36,7 @@
       "2026-08-14": 767,
       "2026-08-15": 795,
       "2026-08-16": 582,
-      "2026-08-17": 0
+      "2026-08-17": 12
     }
   },
   {
