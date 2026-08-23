@@ -6,14 +6,14 @@
     "slug": "gobeyond-api",
     "status": "degraded",
     "uptime": "98.56%",
-    "uptimeDay": "50.34%",
-    "uptimeWeek": "54.07%",
-    "uptimeMonth": "82.61%",
-    "uptimeYear": "98.55%",
+    "uptimeDay": "47.36%",
+    "uptimeWeek": "53.64%",
+    "uptimeMonth": "82.51%",
+    "uptimeYear": "98.54%",
     "time": 841,
     "timeDay": 1095,
-    "timeWeek": 1097,
-    "timeMonth": 1098,
+    "timeWeek": 1098,
+    "timeMonth": 1099,
     "timeYear": 836,
     "dailyMinutesDown": {
       "2026-08-12": 417,
@@ -26,7 +26,8 @@
       "2026-08-19": 614,
       "2026-08-20": 715,
       "2026-08-21": 424,
-      "2026-08-22": 717
+      "2026-08-22": 722,
+      "2026-08-23": 38
     }
   },
   {
@@ -43,7 +44,7 @@
     "time": 243,
     "timeDay": 699,
     "timeWeek": 624,
-    "timeMonth": 702,
+    "timeMonth": 701,
     "timeYear": 243,
     "dailyMinutesDown": {
       "2025-08-29": 15,
@@ -65,11 +66,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-02.ecmwf-gobeyond.f.ewcloud.host.ico",
     "slug": "gobeyond-dev-api",
     "status": "degraded",
-    "uptime": "99.00%",
-    "uptimeDay": "79.46%",
-    "uptimeWeek": "74.27%",
-    "uptimeMonth": "87.88%",
-    "uptimeYear": "98.99%",
+    "uptime": "98.99%",
+    "uptimeDay": "76.48%",
+    "uptimeWeek": "73.84%",
+    "uptimeMonth": "87.78%",
+    "uptimeYear": "98.98%",
     "time": 826,
     "timeDay": 981,
     "timeWeek": 980,
@@ -88,7 +89,8 @@
       "2026-08-19": 384,
       "2026-08-20": 287,
       "2026-08-21": 270,
-      "2026-08-22": 296
+      "2026-08-22": 301,
+      "2026-08-23": 38
     }
   },
   {
@@ -97,15 +99,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-02.ecmwf-gobeyond.f.ewcloud.host.ico",
     "slug": "gobeyond-dev-upstream",
     "status": "up",
-    "uptime": "87.84%",
+    "uptime": "87.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
-    "uptimeYear": "87.84%",
+    "uptimeYear": "87.85%",
     "time": 207,
     "timeDay": 472,
     "timeWeek": 470,
-    "timeMonth": 481,
+    "timeMonth": 486,
     "timeYear": 207,
     "dailyMinutesDown": {
       "2025-09-16": 21,
