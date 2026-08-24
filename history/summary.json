@@ -6,14 +6,14 @@
     "slug": "gobeyond-api",
     "status": "degraded",
     "uptime": "98.83%",
-    "uptimeDay": "49.05%",
-    "uptimeWeek": "51.41%",
-    "uptimeMonth": "85.81%",
-    "uptimeYear": "98.82%",
+    "uptimeDay": "47.39%",
+    "uptimeWeek": "51.17%",
+    "uptimeMonth": "85.74%",
+    "uptimeYear": "98.81%",
     "time": 848,
-    "timeDay": 1076,
-    "timeWeek": 1088,
-    "timeMonth": 1096,
+    "timeDay": 1083,
+    "timeWeek": 1086,
+    "timeMonth": 1097,
     "timeYear": 843,
     "dailyMinutesDown": {
       "2026-08-15": 340,
@@ -25,7 +25,7 @@
       "2026-08-21": 424,
       "2026-08-22": 722,
       "2026-08-23": 884,
-      "2026-08-24": 359
+      "2026-08-24": 391
     }
   },
   {
@@ -63,16 +63,16 @@
     "url": "https://api-02.ecmwf-gobeyond.f.ewcloud.host/wms/?service=WMS&version=1.3.0&request=GetCapabilities",
     "icon": "https://icons.duckduckgo.com/ip3/api-02.ecmwf-gobeyond.f.ewcloud.host.ico",
     "slug": "gobeyond-dev-api",
-    "status": "degraded",
+    "status": "up",
     "uptime": "98.98%",
-    "uptimeDay": "82.22%",
-    "uptimeWeek": "73.30%",
-    "uptimeMonth": "87.63%",
-    "uptimeYear": "98.97%",
+    "uptimeDay": "80.07%",
+    "uptimeWeek": "73.06%",
+    "uptimeMonth": "87.56%",
+    "uptimeYear": "98.96%",
     "time": 828,
-    "timeDay": 973,
-    "timeWeek": 984,
-    "timeMonth": 979,
+    "timeDay": 970,
+    "timeWeek": 983,
+    "timeMonth": 978,
     "timeYear": 834,
     "dailyMinutesDown": {
       "2026-08-11": 212,
@@ -88,7 +88,7 @@
       "2026-08-21": 270,
       "2026-08-22": 301,
       "2026-08-23": 385,
-      "2026-08-24": 202
+      "2026-08-24": 233
     }
   },
   {
@@ -97,11 +97,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-02.ecmwf-gobeyond.f.ewcloud.host.ico",
     "slug": "gobeyond-dev-upstream",
     "status": "up",
-    "uptime": "87.89%",
+    "uptime": "87.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
-    "uptimeYear": "87.89%",
+    "uptimeYear": "87.90%",
     "time": 208,
     "timeDay": 469,
     "timeWeek": 469,
