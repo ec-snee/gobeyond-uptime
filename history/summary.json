@@ -4,16 +4,16 @@
     "url": "https://api.gobeyond-project.eu/wms/?service=WMS&version=1.3.0&request=GetCapabilities",
     "icon": "https://icons.duckduckgo.com/ip3/api.gobeyond-project.eu.ico",
     "slug": "gobeyond-api",
-    "status": "degraded",
-    "uptime": "98.03%",
-    "uptimeDay": "25.36%",
-    "uptimeWeek": "59.90%",
-    "uptimeMonth": "75.41%",
-    "uptimeYear": "97.95%",
+    "status": "up",
+    "uptime": "97.99%",
+    "uptimeDay": "25.38%",
+    "uptimeWeek": "57.82%",
+    "uptimeMonth": "74.91%",
+    "uptimeYear": "97.91%",
     "time": 860,
-    "timeDay": 983,
-    "timeWeek": 1046,
-    "timeMonth": 1094,
+    "timeDay": 935,
+    "timeWeek": 1038,
+    "timeMonth": 1092,
     "timeYear": 855,
     "dailyMinutesDown": {
       "2026-08-17": 334,
@@ -32,7 +32,7 @@
       "2026-08-30": 292,
       "2026-08-31": 611,
       "2026-09-01": 866,
-      "2026-09-02": 532
+      "2026-09-02": 752
     }
   },
   {
@@ -69,15 +69,15 @@
     "url": "https://api-02.ecmwf-gobeyond.f.ewcloud.host/wms/?service=WMS&version=1.3.0&request=GetCapabilities",
     "icon": "https://icons.duckduckgo.com/ip3/api-02.ecmwf-gobeyond.f.ewcloud.host.ico",
     "slug": "gobeyond-dev-api",
-    "status": "degraded",
-    "uptime": "98.83%",
-    "uptimeDay": "82.53%",
-    "uptimeWeek": "79.62%",
-    "uptimeMonth": "85.36%",
-    "uptimeYear": "98.78%",
+    "status": "up",
+    "uptime": "98.79%",
+    "uptimeDay": "67.27%",
+    "uptimeWeek": "77.44%",
+    "uptimeMonth": "84.85%",
+    "uptimeYear": "98.74%",
     "time": 834,
-    "timeDay": 1007,
-    "timeWeek": 961,
+    "timeDay": 966,
+    "timeWeek": 953,
     "timeMonth": 980,
     "timeYear": 851,
     "dailyMinutesDown": {
@@ -99,7 +99,7 @@
       "2026-08-31": 574,
       "2026-08-30": 15,
       "2026-09-01": 32,
-      "2026-09-02": 251
+      "2026-09-02": 471
     }
   },
   {
@@ -108,7 +108,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-02.ecmwf-gobeyond.f.ewcloud.host.ico",
     "slug": "gobeyond-dev-upstream",
     "status": "up",
-    "uptime": "88.19%",
+    "uptime": "88.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
