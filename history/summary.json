@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.gobeyond-project.eu.ico",
     "slug": "gobeyond-api",
     "status": "degraded",
-    "uptime": "97.54%",
+    "uptime": "97.52%",
     "uptimeDay": "77.75%",
     "uptimeWeek": "51.55%",
-    "uptimeMonth": "68.91%",
-    "uptimeYear": "97.41%",
+    "uptimeMonth": "68.61%",
+    "uptimeYear": "97.38%",
     "time": 863,
     "timeDay": 1113,
     "timeWeek": 1059,
-    "timeMonth": 1092,
-    "timeYear": 860,
+    "timeMonth": 1093,
+    "timeYear": 861,
     "dailyMinutesDown": {
       "2026-08-18": 642,
       "2026-08-19": 614,
@@ -36,7 +36,8 @@
       "2026-09-05": 471,
       "2026-09-04": 1440,
       "2026-09-06": 395,
-      "2026-09-07": 205
+      "2026-09-07": 321,
+      "2026-09-08": 16
     }
   },
   {
@@ -53,8 +54,8 @@
     "time": 258,
     "timeDay": 326,
     "timeWeek": 600,
-    "timeMonth": 683,
-    "timeYear": 262,
+    "timeMonth": 692,
+    "timeYear": 263,
     "dailyMinutesDown": {
       "2025-09-22": 114,
       "2025-09-25": 10,
@@ -73,19 +74,19 @@
     "url": "https://api-02.ecmwf-gobeyond.f.ewcloud.host/wms/?service=WMS&version=1.3.0&request=GetCapabilities",
     "icon": "https://icons.duckduckgo.com/ip3/api-02.ecmwf-gobeyond.f.ewcloud.host.ico",
     "slug": "gobeyond-dev-api",
-    "status": "up",
-    "uptime": "98.65%",
-    "uptimeDay": "88.25%",
-    "uptimeWeek": "84.27%",
-    "uptimeMonth": "82.97%",
+    "status": "degraded",
+    "uptime": "98.66%",
+    "uptimeDay": "88.24%",
+    "uptimeWeek": "85.58%",
+    "uptimeMonth": "83.01%",
     "uptimeYear": "98.58%",
     "time": 837,
-    "timeDay": 966,
-    "timeWeek": 969,
-    "timeMonth": 982,
-    "timeYear": 854,
+    "timeDay": 1016,
+    "timeWeek": 978,
+    "timeMonth": 983,
+    "timeYear": 855,
     "dailyMinutesDown": {
-      "2026-08-15": 160,
+      "2026-08-15": 142,
       "2026-08-16": 320,
       "2026-08-17": 457,
       "2026-08-18": 579,
@@ -107,7 +108,8 @@
       "2026-09-04": 432,
       "2026-09-03": 230,
       "2026-09-06": 135,
-      "2026-09-07": 169
+      "2026-09-07": 169,
+      "2026-09-08": 0
     }
   },
   {
