@@ -5,10 +5,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.gobeyond-project.eu.ico",
     "slug": "gobeyond-api",
     "status": "degraded",
-    "uptime": "93.00%",
+    "uptime": "92.99%",
     "uptimeDay": "94.27%",
-    "uptimeWeek": "45.56%",
-    "uptimeMonth": "50.55%",
+    "uptimeWeek": "45.22%",
+    "uptimeMonth": "50.47%",
     "uptimeYear": "91.39%",
     "time": 907,
     "timeDay": 970,
@@ -78,7 +78,7 @@
       "2026-11-07": 1440,
       "2026-11-09": 792,
       "2026-11-10": 84,
-      "2026-11-11": 0
+      "2026-11-11": 35
     }
   },
   {
